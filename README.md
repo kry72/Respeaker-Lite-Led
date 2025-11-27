@@ -1,4 +1,4 @@
 
 # Respeaker-Lite-Led
 Respeaker Led ring WS2812 project
-![Screenshot_2025-11-27-09-35-40-192_com miui mediaviewer](https://github.com/user-attachments/assets/a1f295aa-0c3f-4cd3-803f-3cafdfc189c8)
+![IMG_20251127_093855](https://github.com/user-attachments/assets/48864f04-ae1d-46e6-b51b-f2a85cdd3e51)
